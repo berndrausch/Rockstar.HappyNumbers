@@ -1,5 +1,12 @@
 Square takes X
 Give back X of X
 
+Modulo takes X and Y
+Put X into Result
+While Result is as high as Y
+Put Result without Y into Result
+
+Give back Result
+
 Put Square taking 5 into Result
 Say Result
