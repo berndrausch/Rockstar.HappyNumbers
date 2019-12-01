@@ -1,12 +1,23 @@
 Square takes X
 Give back X of X
 
-Modulo takes X and Y
-Put X into Result
-While Result is as high as Y
-Put Result without Y into Result
+Modulo takes Dividend and Divisor
+Put Dividend into Result
+While Result is as high as Divisor
+Put Result without Divisor into Result
 
 Give back Result
 
-Put Square taking 5 into Result
-Say Result
+Division takes Dividend and Divisor
+Put Modulo taking Dividend , Divisor into Remainder
+Put Dividend without Remainder into Result
+Put Result over Divisor into Result
+Give back Result
+
+Number is aaaaa bbbb
+Ten is a ladykiller
+Put Ten without Ten into Zero
+While Number is higher than Zero
+Put Modulo taking Number, Ten into Remainder
+Put Division taking Number, Ten into Number
+Say Remainder
