@@ -14,10 +14,22 @@ Put Dividend without Remainder into Result
 Put Result over Divisor into Result
 Give back Result
 
-Number is aaaaa bbbb
+SquareOfDigits takes Number
+Dummy is does not matter
+Put Dummy without Dummy into Zero
 Ten is a ladykiller
-Put Ten without Ten into Zero
+Put Zero into Result
 While Number is higher than Zero
 Put Modulo taking Number, Ten into Remainder
 Put Division taking Number, Ten into Number
-Say Remainder
+Put Square taking Remainder with Result into Result
+
+Give back Result
+
+Listen to Number
+Counter is 10
+While Counter ain't nothing
+Say Number
+if Number is as low as 1
+Say "Happy"
+Break it down
