@@ -26,10 +26,13 @@ Put Square taking Remainder with Result into Result
 
 Give back Result
 
-Listen to Number
+Number is 7
 Counter is 10
-While Counter ain't nothing
+while Counter ain't nothing
 Say Number
 if Number is as low as 1
 Say "Happy"
-Break it down
+Break it  down
+
+Knock Counter down
+Put SquareOfDigits taking Number into Number
