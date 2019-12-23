@@ -1,38 +1,38 @@
-Square takes X
-Give back X of X
+Heaven takes my soul
+Let the darkness be my soul
+Give back the darkness of my soul
 
-Modulo takes Dividend and Divisor
-Put Dividend into Result
-While Result is as high as Divisor
-Put Result without Divisor into Result
+Hell takes my thoughts and my feelings
+Put my thoughts into the sky
+While the sky is as high as my feelings
+Let the sky be without my feelings
 
-Give back Result
+Give back the sky
 
-Division takes Dividend and Divisor
-Put Modulo taking Dividend , Divisor into Remainder
-Put Dividend without Remainder into Result
-Put Result over Divisor into Result
-Give back Result
+Purgatory takes the sinner
+My fault was sin
+My believe was god
+Let the truth be my believe without my fault 
+Your thoughts were a ladykiller
+Put the truth into your heart
+While the sinner is higher than the truth
+Put Hell taking the sinner, Your thoughts into my breath
+Let the sinner be over your thoughts
+Turn down the sinner
+Let your heart be with Heaven taking my breath
 
-SquareOfDigits takes Number
-Dummy is does not matter
-Put Dummy without Dummy into Zero
-Ten is a ladykiller
-Put Zero into Result
-While Number is higher than Zero
-Put Modulo taking Number, Ten into Remainder
-Put Division taking Number, Ten into Number
-Put Square taking Remainder with Result into Result
+Give back your heart
 
-Give back Result
+The darkness is ancient
+Happiness is a punishment
+Self Esteem is Confidence
+Build Self Esteem up
 
-Number is 7
-Counter is 10
-while Counter ain't nothing
-Say Number
-if Number is as low as 1
+while Happiness ain't nothing
+Scream the darkness
+if the darkness is as low as Self Esteem
 Say "Happy"
-Break it  down
+Break it down
 
-Knock Counter down
-Put SquareOfDigits taking Number into Number
+Knock Happiness down
+Let the darkness be Purgatory taking the darkness
